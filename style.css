@@ -211,3 +211,35 @@ section .title::after {
  .about .about-content .right .text span {
      color: rgb(221, 99, 221);
  }
+
+ .about .about-content .right p {
+     text-align: justify;
+ }
+
+ .about .about-content .right a {
+     display: inline-block;
+     background: rgb(221, 99, 221);
+     color: white;
+     font-size: 20px;
+     font-weight: 500;
+     padding: 10px 30px;
+     margin-top: 20px;
+     border-radius: 6px;
+     border: 2px solid rgb(221, 99, 221);
+     transition: all 0.3 ease;
+ }
+
+ .about .about-content .right a:hover {
+     color: rgb(41, 41, 41);
+     background: none;
+ }
+
+/* services section styling */
+.services{
+    color:#fff;
+    background: #111;
+}
+.services .title::before{
+    background:rgb(221, 99, 221);
+   
+} 
