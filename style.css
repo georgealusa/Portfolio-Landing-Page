@@ -345,4 +345,28 @@ section .title::after {
          }
 
      }
+     
+     max-width {
+         max-width: 800px;
+
+     }
+
+     .about .about-content .column {
+         width: 100%;
+     }
+
+     .about .about-content .left {
+         display: flex;
+         justify-content: center;
+         margin: 0 auto 60px;
+     }
+     .about .about-content .left {
+        flex: 100%;
+    }
+
+         @media (max-width: 690px) {
+             .max-width {
+                 padding: 0 23px;
+             }
+         }
 
