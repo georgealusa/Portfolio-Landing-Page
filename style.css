@@ -16,3 +16,17 @@
      font-family: cursive;
 
  }
+
+ .navbar .max-width {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+
+ }
+
+ .max-width {
+
+     max-width: 1400px;
+     padding: 0 80px;
+     margin: auto;
+ }
