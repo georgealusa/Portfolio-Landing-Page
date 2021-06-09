@@ -30,3 +30,17 @@
      padding: 0 80px;
      margin: auto;
  }
+logo a {
+     color: white;
+     font-size: 3em;
+     font-weight: 60;
+ }
+
+ .menu li a {
+     color: white;
+     font-size: 18px;
+     font-weight: 500;
+     margin-left: 25px;
+
+
+ }
