@@ -56,3 +56,19 @@ logo a {
      margin-left: 25px;
      transition: color 0.3s ease;
  }
+.menu li a:hover {
+     color: rgb(41, 41, 41);
+ }
+
+ .navbar.sticky .menu li a:hover {
+     color: white;
+ }
+
+ /* menu btn styling */
+
+.menu-btn{
+    color: white;
+    font-size: 23px;
+    cursor: pointer;
+    display: none;
+} 
