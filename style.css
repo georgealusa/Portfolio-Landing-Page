@@ -99,3 +99,35 @@ logo a {
  .first-text {
      font-size: 1.2em;
  }
+
+ .sec-text {
+     font-size: 1.7em;
+     font-weight: 600;
+     margin-left: -3px;
+ }
+
+ .third-text {
+     font-size: 1.3em;
+     margin: 5px 0;
+ }
+
+ .home .home-content a {
+     display: inline-block;
+     background: rgb(221, 99, 221);
+     color: white;
+     font-size: 25px;
+     padding: 12px 36px;
+     margin-top: 20px;
+     border-radius: 6px;
+     border: 2px solid rgb(221, 99, 221);
+     transition: all 0.3 ease;
+ }
+
+ .home .home-content a:hover {
+     color: rgb(41, 41, 41);
+     background: none;
+ }
+ /* all related sections styling code */
+ section {
+    padding: 100px 0;
+}
