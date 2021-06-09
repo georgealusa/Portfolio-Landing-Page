@@ -44,3 +44,15 @@ logo a {
 
 
  }
+.menu li {
+     list-style: none;
+     display: inline-block;
+ }
+
+ .menu li a {
+     color: white;
+     font-size: 18px;
+     font-weight: 500;
+     margin-left: 25px;
+     transition: color 0.3s ease;
+ }
