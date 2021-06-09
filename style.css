@@ -77,7 +77,7 @@ logo a {
  /* Home section styling */
  .home {
      display: flex;
-      background: url("images/mike.jpg");
+      background: url("Geek.png);
      background-repeat: no-repeat;
      background-position: center;
      background-size: cover;
