@@ -8,7 +8,7 @@ This is a simple Portfolio Landing page to test my skills after the completion o
 * Sign up for github (log in if you have an account)
 * From the ubuntu Terminal, install git (version control system for tracking changes in computer files)
 * install Visual Studio (for code editing)
-* Browser (Chrome, mozilla, explorer etc)
+* Browser (Chrome, mozilla, Firefox explorer etc)
 
 ## Known Bugs
 No issues unsolved in this project.
