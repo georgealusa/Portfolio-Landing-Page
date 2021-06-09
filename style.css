@@ -72,3 +72,30 @@ logo a {
     cursor: pointer;
     display: none;
 } 
+
+
+ /* Home section styling */
+ .home {
+     display: flex;
+      background: url("images/mike.jpg");
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     height: 100vh;
+     color: white;
+     min-height: 600px;
+     font-size: 2em;
+     font-family: cursive;
+ }
+
+ .home .max-width {
+     margin: auto 0 auto 40px;
+ }
+
+ .one {
+     color: rgb(41, 41, 41);
+ }
+
+ .first-text {
+     font-size: 1.2em;
+ }
