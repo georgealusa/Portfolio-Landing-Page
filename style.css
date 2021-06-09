@@ -310,4 +310,39 @@ section .title::after {
          transition: all 0.3s ease;
 
      }
+      
+     .navbar .menu li {
+         display: block;
+     }
+
+     .navbar .menu li a {
+         display: inline-block;
+         margin: 20px 0;
+         font-size: 25px;
+
+     }
+
+     .home .home-content .sec-text {
+         font-size: 70px;
+     }
+
+     .home .home-content .third-text {
+         font-size: 35px;
+     }
+
+     .home .home-content a {
+         font-size: 23px;
+         padding: 10px 30px;
+     }
+
+     @media (max-width: 500px) {
+         .home .home-content .sec-text {
+             font-size: 50px;
+         }
+
+         .home .home-content .third-text {
+             font-size: 27px;
+         }
+
+     }
 
